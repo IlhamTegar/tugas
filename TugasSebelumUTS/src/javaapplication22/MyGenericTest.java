@@ -8,7 +8,7 @@ import javax.swing.JButton;
 
 /**
  *
- * @author LABKOM
+ * @author IlhsmZeichi
  */
 public class MyGenericTest {
 
