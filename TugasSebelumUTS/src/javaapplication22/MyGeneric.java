@@ -6,7 +6,7 @@ package javaapplication22;
 
 /**
  *
- * @author LABKOM
+ * @author IlhamZeichi
  */
 public class MyGeneric<T> {
 
