@@ -11,7 +11,7 @@ import javax.swing.JButton;
 
 /**
  *
- * @author LABKOM
+ * @author IlhamZeichi
  */
 public class JavaApplication22 {
 
